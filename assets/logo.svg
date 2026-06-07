@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+<defs><linearGradient id="g"><stop stop-color="#48c6ff"/><stop offset="1" stop-color="#9f5cff"/></linearGradient></defs>
+<text x="20" y="120" fill="url(#g)" font-size="90" font-family="Arial" font-weight="bold">RasterPrint Promo</text>
+</svg>
