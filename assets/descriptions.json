@@ -148,7 +148,7 @@
     {
       "name": "Reklamna grafika",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
