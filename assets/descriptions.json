@@ -3,7 +3,7 @@
     {
       "name": "DTF",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -32,7 +32,7 @@
     {
       "name": "DTG",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -61,7 +61,7 @@
     {
       "name": "UV",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -90,7 +90,7 @@
     {
       "name": "Graviranje",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -119,7 +119,7 @@
     {
       "name": "Solvent tisak velikih formata",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -177,7 +177,7 @@
     {
       "name": "Digitalni tisak",
       "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#48c6ff",
       "faq": [
         {
@@ -206,7 +206,7 @@
   {
     "name": "Sitotisak",
     "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "../assets/sitotisak.png",
+      "icon": "./assets/sitotisak.png",
       "color": "#7F00FF",
     "faq": [
       {
