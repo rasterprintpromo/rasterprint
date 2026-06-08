@@ -1,213 +1,9 @@
 {
-  "DTF": 
-    {
-      "name": "DTF",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je DTF?",
-          "answer": "Testa stvar DTF (Direct to Film) je tehnologija tiska kod koje se motiv prvo ispisuje na posebnu transfer foliju, a zatim prenosi na tekstil pomoću toplinske preše. Omogućuje vrlo precizan ispis detalja, živopisne boje i izvrsnu postojanost. Pogodan je za male i velike serije te za različite vrste tkanina, uključujući pamuk, poliester i njihove mješavine."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "DTF tisak najčešće se koristi za majice, hoodice, radnu odjeću, sportske dresove, torbe i ostale tekstilne proizvode. Tehnologija omogućuje kvalitetan tisak na svijetlim i tamnim materijalima. Idealan je za personalizirane proizvode i promotivni tekstil."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o veličini otiska, količini proizvoda, složenosti dizajna te broju pozicija za tisak. Veće narudžbe obično imaju nižu cijenu po komadu. Na konačnu cijenu mogu utjecati i posebni zahtjevi vezani uz pripremu grafike."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Prilikom narudžbe potrebno je poslati grafičku pripremu ili logo u što kvalitetnijem formatu. Važno je navesti količine, veličine proizvoda, pozicije tiska te željene rokove isporuke. Ako nemate pripremljenu grafiku, možemo pomoći oko prilagodbe dizajna."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Standardni rok izrade najčešće je između 3 i 7 radnih dana nakon potvrde narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. U hitnim slučajevima moguće je dogovoriti ubrzanu proizvodnju."
-        }
-      ]
-    },
-    "DTG":
-    {
-      "name": "DTG",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je DTG?",
-          "answer": "DTG (Direct to Garment) je digitalni tisak izravno na tekstil. Tehnologija omogućuje iznimno detaljan prikaz fotografija, prijelaza boja i kompleksnih dizajna. Najčešće se koristi za manje serije i personalizirane proizvode visoke kvalitete."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "DTG tisak najčešće se primjenjuje na pamučne majice, hoodice, dječju odjeću i ostale tekstilne artikle. Posebno je pogodan za motive s puno boja i detalja. Koristi se za personalizirane poklone, modne kolekcije i promotivne proizvode."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o veličini otiska, vrsti odjevnog predmeta i količini komada. Kod DTG tiska broj boja ne utječe značajno na cijenu. Veće količine obično omogućuju povoljniju cijenu po proizvodu."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Potrebno je dostaviti grafiku u visokoj rezoluciji te navesti količinu i veličine proizvoda. Također je važno definirati mjesto otiska i željeni rok izrade. Ukoliko niste sigurni oko pripreme datoteke, naš tim može provjeriti ispravnost grafike prije tiska."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Vrijeme izrade najčešće iznosi od 2 do 7 radnih dana nakon potvrde narudžbe. Rok ovisi o količini proizvoda i opterećenosti proizvodnje. Za manje količine izrada je često moguća i u kraćem roku."
-        }
-      ]
-    },
-    "UV":
-    {
-      "name": "UV",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je UV tisak?",
-          "answer": "UV tisak koristi posebne boje koje se trenutno suše pomoću UV svjetla tijekom procesa ispisa. Omogućuje tisak na velik broj različitih materijala uz visoku preciznost i otpornost. Rezultat su kvalitetni i dugotrajni otisci s izraženim bojama."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "UV tisak koristi se za olovke, upaljače, privjeske, pločice, reklame, akril, drvo, staklo i mnoge druge materijale. Pogodan je za promotivne proizvode i personalizirane poklone. Omogućuje tisak čak i na neravne ili tvrde površine."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o dimenzijama ispisa, vrsti materijala, količini proizvoda i složenosti grafike. Dodatni efekti poput bijele podloge ili reljefnog ispisa mogu povećati cijenu. Veće količine donose povoljniju cijenu po komadu."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Potrebno je dostaviti dizajn, navesti dimenzije ispisa i vrstu proizvoda na kojem se tisak izvodi. Važno je precizno definirati količine i eventualne posebne zahtjeve. Na temelju tih informacija izrađuje se ponuda i prijedlog izvedbe."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Prosječno vrijeme izrade kreće se od 3 do 7 radnih dana. Za veće projekte ili specifične materijale rok može biti nešto duži. Točan termin potvrđuje se nakon pregleda narudžbe."
-        }
-      ]
-    },
-    "Graviranje":
-    {
-      "name": "Graviranje",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je graviranje?",
-          "answer": "Graviranje je postupak trajnog označavanja materijala uklanjanjem ili izmjenom površinskog sloja pomoću lasera ili mehaničkog alata. Rezultat je elegantan, precizan i dugotrajan otisak. Posebno je popularno za personalizaciju proizvoda i poslovnih poklona."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "Gravirati se mogu olovke, privjesci, pločice, trofeji, čaše, drveni proizvodi, metalni predmeti i mnogi drugi artikli. Ovisno o materijalu, moguće je postići različite vizualne efekte. Graviranje je vrlo otporno na habanje i vanjske utjecaje."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o veličini gravure, vrsti materijala, količini proizvoda i složenosti motiva. Veći broj komada obično smanjuje cijenu po jedinici. Posebni zahtjevi ili dodatna priprema mogu utjecati na ukupni trošak."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Potrebno je dostaviti tekst, logo ili grafiku za graviranje te navesti dimenzije i količinu proizvoda. Preporučuje se slanje vektorskih datoteka radi najbolje kvalitete. Također je važno navesti željeno mjesto gravure na proizvodu."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Rok izrade najčešće iznosi od 2 do 5 radnih dana za standardne narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. Točan rok definira se nakon potvrde narudžbe."
-        }
-      ]
-    },
-    "Tisak velikih formata":
-    {
-      "name": "Solvent tisak velikih formata",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je solvent tisak velikih formata?",
-          "answer": "Solvent tisak velikih formata koristi posebne boje otporne na vanjske uvjete poput kiše, sunca i temperaturnih promjena. Idealan je za velike reklamne površine i dugotrajnu vanjsku primjenu. Omogućuje kvalitetan ispis velikih dimenzija uz odličnu postojanost boja."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "Najčešći proizvodi su cerade, banneri, plakati, naljepnice, reklamne table, roll-up sustavi i izlozi. Ova tehnologija koristi se za unutarnje i vanjsko oglašavanje. Pogodna je za promotivne kampanje svih veličina."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena se najčešće određuje prema ukupnoj površini ispisa u kvadratnim metrima. Na cijenu utječu i vrsta materijala, završna obrada te količina proizvoda. Dodatne usluge poput montaže također mogu utjecati na ukupni trošak."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Potrebno je dostaviti grafiku u odgovarajućoj rezoluciji te navesti točne dimenzije proizvoda. Važno je napomenuti gdje će se proizvod koristiti i postoje li posebni zahtjevi za završnu obradu. Na temelju tih podataka priprema se ponuda."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Izrada najčešće traje između 3 i 10 radnih dana, ovisno o količini i dimenzijama. Veći projekti mogu zahtijevati dodatno vrijeme za doradu i montažu. Rok se potvrđuje nakon pregleda svih detalja narudžbe."
-        }
-      ]
-    },
-    "Reklamna grafika":
-    {
-      "name": "Reklamna grafika",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je reklamna grafika?",
-          "answer": "Reklamna grafika obuhvaća dizajn i izradu vizualnih rješenja za promociju proizvoda, usluga i brendova. Cilj je stvoriti prepoznatljiv i učinkovit vizualni identitet. Kvalitetna grafika povećava vidljivost i profesionalnost poslovanja."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "U reklamnu grafiku ubrajaju se logotipi, vizitke, letci, plakati, naljepnice, banneri, reklame za vozila i ostali promotivni materijali. Rješenja se prilagođavaju potrebama svakog klijenta. Mogu biti namijenjena tisku ili digitalnoj upotrebi."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o opsegu projekta, broju prijedloga, složenosti dizajna i vremenu potrebnom za izradu. Veći i zahtjevniji projekti zahtijevaju više rada. Nakon definiranja potreba izrađuje se individualna ponuda."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Prilikom narudžbe potrebno je opisati svrhu projekta, ciljanu publiku i željeni stil dizajna. Korisno je dostaviti postojeće materijale, logotipe ili primjere koji vam se sviđaju. Što više informacija pružite, to će rezultat bolje odgovarati vašim očekivanjima."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Vrijeme izrade ovisi o složenosti projekta i broju potrebnih korekcija. Jednostavniji projekti mogu biti gotovi za nekoliko dana, dok složeniji zahtijevaju više vremena. Točan rok dogovara se unaprijed."
-        }
-      ]
-    },
-    "Digitalni tisak":
-    {
-      "name": "Digitalni tisak",
-      "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#48c6ff",
-      "faq": [
-        {
-          "question": "Što je digitalni tisak?",
-          "answer": "Digitalni tisak omogućuje izravan prijenos digitalne datoteke na tiskovni uređaj bez izrade klasičnih tiskarskih formi. Idealan je za manje i srednje naklade te brzu izradu promotivnih materijala. Omogućuje visoku kvalitetu ispisa uz kratke rokove proizvodnje."
-        },
-        {
-          "question": "Koji su proizvodi?",
-          "answer": "Najčešće se tiskaju letci, brošure, vizitke, katalogi, naljepnice, pozivnice i plakati manjih formata. Digitalni tisak pogodan je za personalizirane i varijabilne materijale. Koristi se u poslovne i promotivne svrhe."
-        },
-        {
-          "question": "O čemu ovisi cijena?",
-          "answer": "Cijena ovisi o formatu, vrsti papira, broju stranica, količini i završnoj obradi. Veće naklade obično smanjuju cijenu po primjerku. Posebni papiri i dorade mogu povećati ukupni trošak."
-        },
-        {
-          "question": "Kako naručiti (što sve napomenuti)?",
-          "answer": "Potrebno je dostaviti pripremljenu datoteku za tisak ili zatražiti pomoć oko pripreme. Važno je navesti format, količinu, vrstu papira i željene dorade. Nakon pregleda materijala potvrđuju se cijena i rok izrade."
-        },
-        {
-          "question": "Koliko traje izrada?",
-          "answer": "Digitalni tisak poznat je po brzini izrade te je većina narudžbi gotova unutar 1 do 5 radnih dana. Veće količine ili složenije dorade mogu produžiti rok. Točan termin isporuke definira se prilikom potvrde narudžbe."
-        }
-      ]
-    },
-    "Sitotisak":
-  {
+  "Sitotisak": {
     "name": "Sitotisak",
-    "description": "Idealan za majice, hoodice,\n sportsku opremu i radnu odjeću.",
-      "icon": "./assets/sitotisak.png",
-      "color": "#7F00FF",
+    "description": "Najbolji izbor za velike naklade, intenzivne boje i dugotrajne otiske",
+    "icon": "./assets/icons/sitotisak.png",
+    "color": "#f9197c",
     "faq": [
       {
         "question": "Što je sitotisak?",
@@ -230,5 +26,201 @@
         "answer": "Standardni rok izrade sitotiska najčešće je između 5 i 10 radnih dana od potvrde narudžbe. Rok ovisi o količini proizvoda, složenosti grafike i trenutnom opterećenju proizvodnje. Veće serije mogu zahtijevati dodatno vrijeme za pripremu i realizaciju. U pojedinim slučajevima moguće je dogovoriti i hitnu izradu."
       }
     ]
-    }
+  },
+  "DTF": {
+    "name": "DTF",
+    "description": "Besprijekoran prijenos motiva na svijetle i tamne tekstilne podloge",
+    "icon": "./assets/icons/dtf.png",
+    "color": "#08b7e9",
+    "faq": [
+      {
+        "question": "Što je DTF?",
+        "answer": "Testa stvar DTF (Direct to Film) je tehnologija tiska kod koje se motiv prvo ispisuje na posebnu transfer foliju, a zatim prenosi na tekstil pomoću toplinske preše. Omogućuje vrlo precizan ispis detalja, živopisne boje i izvrsnu postojanost. Pogodan je za male i velike serije te za različite vrste tkanina, uključujući pamuk, poliester i njihove mješavine."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "DTF tisak najčešće se koristi za majice, hoodice, radnu odjeću, sportske dresove, torbe i ostale tekstilne proizvode. Tehnologija omogućuje kvalitetan tisak na svijetlim i tamnim materijalima. Idealan je za personalizirane proizvode i promotivni tekstil."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o veličini otiska, količini proizvoda, složenosti dizajna te broju pozicija za tisak. Veće narudžbe obično imaju nižu cijenu po komadu. Na konačnu cijenu mogu utjecati i posebni zahtjevi vezani uz pripremu grafike."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Prilikom narudžbe potrebno je poslati grafičku pripremu ili logo u što kvalitetnijem formatu. Važno je navesti količine, veličine proizvoda, pozicije tiska te željene rokove isporuke. Ako nemate pripremljenu grafiku, možemo pomoći oko prilagodbe dizajna."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Standardni rok izrade najčešće je između 3 i 7 radnih dana nakon potvrde narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. U hitnim slučajevima moguće je dogovoriti ubrzanu proizvodnju."
+      }
+    ]
+  },
+  "DTG": {
+    "name": "DTG",
+    "description": "Detaljni višebojni motivi otisnuti izravno na odjevni predmet",
+    "icon": "./assets/icons/dtg.png",
+    "color": "#fed800",
+    "faq": [
+      {
+        "question": "Što je DTG?",
+        "answer": "DTG (Direct to Garment) je digitalni tisak izravno na tekstil. Tehnologija omogućuje iznimno detaljan prikaz fotografija, prijelaza boja i kompleksnih dizajna. Najčešće se koristi za manje serije i personalizirane proizvode visoke kvalitete."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "DTG tisak najčešće se primjenjuje na pamučne majice, hoodice, dječju odjeću i ostale tekstilne artikle. Posebno je pogodan za motive s puno boja i detalja. Koristi se za personalizirane poklone, modne kolekcije i promotivne proizvode."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o veličini otiska, vrsti odjevnog predmeta i količini komada. Kod DTG tiska broj boja ne utječe značajno na cijenu. Veće količine obično omogućuju povoljniju cijenu po proizvodu."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Potrebno je dostaviti grafiku u visokoj rezoluciji te navesti količinu i veličine proizvoda. Također je važno definirati mjesto otiska i željeni rok izrade. Ukoliko niste sigurni oko pripreme datoteke, naš tim može provjeriti ispravnost grafike prije tiska."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Vrijeme izrade najčešće iznosi od 2 do 7 radnih dana nakon potvrde narudžbe. Rok ovisi o količini proizvoda i opterećenosti proizvodnje. Za manje količine izrada je često moguća i u kraćem roku."
+      }
+    ]
+  },
+  "UV": {
+    "name": "UV",
+    "description": "Precizan tisak na tvrde materijale poput plastike, stakla, drveta i metala",
+    "icon": "./assets/icons/uv.png",
+    "color": "#7dc533",
+    "faq": [
+      {
+        "question": "Što je UV tisak?",
+        "answer": "UV tisak koristi posebne boje koje se trenutno suše pomoću UV svjetla tijekom procesa ispisa. Omogućuje tisak na velik broj različitih materijala uz visoku preciznost i otpornost. Rezultat su kvalitetni i dugotrajni otisci s izraženim bojama."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "UV tisak koristi se za olovke, upaljače, privjeske, pločice, reklame, akril, drvo, staklo i mnoge druge materijale. Pogodan je za promotivne proizvode i personalizirane poklone. Omogućuje tisak čak i na neravne ili tvrde površine."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o dimenzijama ispisa, vrsti materijala, količini proizvoda i složenosti grafike. Dodatni efekti poput bijele podloge ili reljefnog ispisa mogu povećati cijenu. Veće količine donose povoljniju cijenu po komadu."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Potrebno je dostaviti dizajn, navesti dimenzije ispisa i vrstu proizvoda na kojem se tisak izvodi. Važno je precizno definirati količine i eventualne posebne zahtjeve. Na temelju tih informacija izrađuje se ponuda i prijedlog izvedbe."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Prosječno vrijeme izrade kreće se od 3 do 7 radnih dana. Za veće projekte ili specifične materijale rok može biti nešto duži. Točan termin potvrđuje se nakon pregleda narudžbe."
+      }
+    ]
+  },
+  "Graviranje": {
+    "name": "Graviranje",
+    "description": "Trajno označavanje proizvoda elegantnim laserskim graviranjem",
+    "icon": "./assets/icons/laser.png",
+    "color": "#ff8304",
+    "faq": [
+      {
+        "question": "Što je graviranje?",
+        "answer": "Graviranje je postupak trajnog označavanja materijala uklanjanjem ili izmjenom površinskog sloja pomoću lasera ili mehaničkog alata. Rezultat je elegantan, precizan i dugotrajan otisak. Posebno je popularno za personalizaciju proizvoda i poslovnih poklona."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "Gravirati se mogu olovke, privjesci, pločice, trofeji, čaše, drveni proizvodi, metalni predmeti i mnogi drugi artikli. Ovisno o materijalu, moguće je postići različite vizualne efekte. Graviranje je vrlo otporno na habanje i vanjske utjecaje."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o veličini gravure, vrsti materijala, količini proizvoda i složenosti motiva. Veći broj komada obično smanjuje cijenu po jedinici. Posebni zahtjevi ili dodatna priprema mogu utjecati na ukupni trošak."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Potrebno je dostaviti tekst, logo ili grafiku za graviranje te navesti dimenzije i količinu proizvoda. Preporučuje se slanje vektorskih datoteka radi najbolje kvalitete. Također je važno navesti željeno mjesto gravure na proizvodu."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Rok izrade najčešće iznosi od 2 do 5 radnih dana za standardne narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. Točan rok definira se nakon potvrde narudžbe."
+      }
+    ]
+  },
+  "Tisak velikih formata": {
+    "name": "Solvent tisak velikih formata",
+    "description": "Privucite pažnju velikim reklamama koje se ističu iz daljine",
+    "icon": "./assets/icons/solvent.png",
+    "color": "#7cc534",
+    "faq": [
+      {
+        "question": "Što je solvent tisak velikih formata?",
+        "answer": "Solvent tisak velikih formata koristi posebne boje otporne na vanjske uvjete poput kiše, sunca i temperaturnih promjena. Idealan je za velike reklamne površine i dugotrajnu vanjsku primjenu. Omogućuje kvalitetan ispis velikih dimenzija uz odličnu postojanost boja."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "Najčešći proizvodi su cerade, banneri, plakati, naljepnice, reklamne table, roll-up sustavi i izlozi. Ova tehnologija koristi se za unutarnje i vanjsko oglašavanje. Pogodna je za promotivne kampanje svih veličina."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena se najčešće određuje prema ukupnoj površini ispisa u kvadratnim metrima. Na cijenu utječu i vrsta materijala, završna obrada te količina proizvoda. Dodatne usluge poput montaže također mogu utjecati na ukupni trošak."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Potrebno je dostaviti grafiku u odgovarajućoj rezoluciji te navesti točne dimenzije proizvoda. Važno je napomenuti gdje će se proizvod koristiti i postoje li posebni zahtjevi za završnu obradu. Na temelju tih podataka priprema se ponuda."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Izrada najčešće traje između 3 i 10 radnih dana, ovisno o količini i dimenzijama. Veći projekti mogu zahtijevati dodatno vrijeme za doradu i montažu. Rok se potvrđuje nakon pregleda svih detalja narudžbe."
+      }
+    ]
+  },
+  "Reklamna grafika": {
+    "name": "Reklamna grafika",
+    "description": "Kreativni dizajn koji vaš brend čini prepoznatljivim",
+    "icon": "./assets/icons/reklamna.png",
+    "color": "#fdfdfe",
+    "faq": [
+      {
+        "question": "Što je reklamna grafika?",
+        "answer": "Reklamna grafika obuhvaća dizajn i izradu vizualnih rješenja za promociju proizvoda, usluga i brendova. Cilj je stvoriti prepoznatljiv i učinkovit vizualni identitet. Kvalitetna grafika povećava vidljivost i profesionalnost poslovanja."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "U reklamnu grafiku ubrajaju se logotipi, vizitke, letci, plakati, naljepnice, banneri, reklame za vozila i ostali promotivni materijali. Rješenja se prilagođavaju potrebama svakog klijenta. Mogu biti namijenjena tisku ili digitalnoj upotrebi."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o opsegu projekta, broju prijedloga, složenosti dizajna i vremenu potrebnom za izradu. Veći i zahtjevniji projekti zahtijevaju više rada. Nakon definiranja potreba izrađuje se individualna ponuda."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Prilikom narudžbe potrebno je opisati svrhu projekta, ciljanu publiku i željeni stil dizajna. Korisno je dostaviti postojeće materijale, logotipe ili primjere koji vam se sviđaju. Što više informacija pružite, to će rezultat bolje odgovarati vašim očekivanjima."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Vrijeme izrade ovisi o složenosti projekta i broju potrebnih korekcija. Jednostavniji projekti mogu biti gotovi za nekoliko dana, dok složeniji zahtijevaju više vremena. Točan rok dogovara se unaprijed."
+      }
+    ]
+  },
+  "Digitalni tisak": {
+    "name": "Digitalni tisak",
+    "description": "Brza izrada letaka, vizitki, brošura i ostalih tiskanih materijala",
+    "icon": "./assets/icons/digitalni_tisak.png",
+    "color": "#7c31c1",
+    "faq": [
+      {
+        "question": "Što je digitalni tisak?",
+        "answer": "Digitalni tisak omogućuje izravan prijenos digitalne datoteke na tiskovni uređaj bez izrade klasičnih tiskarskih formi. Idealan je za manje i srednje naklade te brzu izradu promotivnih materijala. Omogućuje visoku kvalitetu ispisa uz kratke rokove proizvodnje."
+      },
+      {
+        "question": "Koji su proizvodi?",
+        "answer": "Najčešće se tiskaju letci, brošure, vizitke, katalogi, naljepnice, pozivnice i plakati manjih formata. Digitalni tisak pogodan je za personalizirane i varijabilne materijale. Koristi se u poslovne i promotivne svrhe."
+      },
+      {
+        "question": "O čemu ovisi cijena?",
+        "answer": "Cijena ovisi o formatu, vrsti papira, broju stranica, količini i završnoj obradi. Veće naklade obično smanjuju cijenu po primjerku. Posebni papiri i dorade mogu povećati ukupni trošak."
+      },
+      {
+        "question": "Kako naručiti (što sve napomenuti)?",
+        "answer": "Potrebno je dostaviti pripremljenu datoteku za tisak ili zatražiti pomoć oko pripreme. Važno je navesti format, količinu, vrstu papira i željene dorade. Nakon pregleda materijala potvrđuju se cijena i rok izrade."
+      },
+      {
+        "question": "Koliko traje izrada?",
+        "answer": "Digitalni tisak poznat je po brzini izrade te je većina narudžbi gotova unutar 1 do 5 radnih dana. Veće količine ili složenije dorade mogu produžiti rok. Točan termin isporuke definira se prilikom potvrde narudžbe."
+      }
+    ]
+  }
 }
