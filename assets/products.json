@@ -1,60 +1,93 @@
 {
-  "Majice": ["Sitotisak", "DTF", "DTG"],
-  "Polo majice": ["Sitotisak", "DTF", "DTG"],
-  "Hudice": ["Sitotisak", "DTF", "DTG"],
-  "Dukse": ["Sitotisak", "DTF", "DTG"],
-  "Jakne": ["DTF", "Sitotisak"],
-  "Prsluci": ["DTF", "Sitotisak"],
-  "Kape": ["Sitotisak", "DTF"],
-  "Sportska oprema": ["DTF", "DTG"],
-  "Sportski dresovi": ["DTF", "DTG"],
-  "Trenirke": ["DTF", "DTG"],
-  "Radna odijela": ["Sitotisak", "DTF"],
-  "Radne jakne": ["Sitotisak", "DTF"],
-  "Reflektirajući prsluci": ["Sitotisak", "DTF"],
-  "Platnene vrećice": ["Sitotisak", "DTF"],
-  "Ruksaci": ["DTF"],
-  "Torbe": ["DTF", "Sitotisak"],
-  "Promo materijali": ["UV", "Digitalni tisak"],
-  "Kemijske olovke": ["UV", "Graviranje"],
-  "Metalne olovke": ["UV", "Graviranje"],
-  "Privjesci": ["UV", "Graviranje"],
-  "Upaljači": ["UV", "Graviranje"],
-  "USB memorije": ["UV", "Graviranje"],
-  "Power bankovi": ["UV"],
-  "Posjetnice": ["Digitalni tisak"],
-  "Letci": ["Digitalni tisak"],
-  "Flyeri": ["Digitalni tisak"],
-  "Brošure": ["Digitalni tisak"],
-  "Katalozi": ["Digitalni tisak"],
-  "Kuverte": ["Digitalni tisak"],
-  "Naljepnice": ["Digitalni tisak", "UV", "Tisak velikih formata"],
-  "Etikete": ["Digitalni tisak", "UV"],
-  "Pozivnice": ["Digitalni tisak"],
-  "Certifikati": ["Digitalni tisak"],
-  "Plakati": ["Digitalni tisak", "Tisak velikih formata"],
-  "Roll-up banneri": ["Tisak velikih formata"],
-  "Cerade": ["Tisak velikih formata"],
-  "Banneri": ["Tisak velikih formata"],
-  "City light plakati": ["Tisak velikih formata"],
-  "Mesh mreže": ["Tisak velikih formata"],
-  "Reklamne table": ["Tisak velikih formata", "Reklamna grafika"],
-  "Putokazi": ["UV", "Reklamna grafika"],
-  "Vozila": ["Reklamna grafika"],
-  "Izlozi": ["Reklamna grafika", "UV"],
-  "Zidne grafike": ["Reklamna grafika"],
-  "One way vision folije": ["Reklamna grafika"],
-  "Staklene površine": ["UV", "Reklamna grafika"],
-  "Šalice": ["Graviranje"],
-  "Termo boce": ["UV", "Graviranje"],
-  "Čaše": ["Graviranje"],
-  "Drvene pločice": ["Graviranje", "UV"],
-  "Metalne pločice": ["UV"],
-  "Trofeji": ["Graviranje", "UV"],
-  "Pehari": ["Graviranje"],
-  "Nagrade": ["Graviranje", "UV"],
-  "Akrilni proizvodi": ["UV"],
-  "Plexiglas proizvodi": ["UV"],
-  "Drveni proizvodi": ["Graviranje", "UV"],
-  "Personalizirani pokloni": ["UV", "Graviranje", "DTF"]
+  "Majice i Polo majice": [
+    "Sitotisak",
+    "DTF",
+    "DTG"
+  ],
+  "Dukse i Platnene vrećice": [
+    "Sitotisak",
+    "DTF",
+    "DTG"
+  ],
+  "Jakne i Prsluci": [
+    "Sitotisak",
+    "DTF"
+  ],
+  "Šilterice i Ruksaci": [
+    "DTF"
+  ],
+  "Sportski dresovi i Trenirke": [
+    "Sitotisak",
+    "DTF"
+  ],
+  "Radna odijela i Reflektirajući prsluci": [
+    "Sitotisak",
+    "DTF"
+  ],
+  "Metalne kemijske olovke i Termo boce": [
+    "UV",
+    "Graviranje"
+  ],
+  "Upaljači i Plastične olovke": [
+    "UV"
+  ],
+  "Privjesci i USB stickovi": [
+    "UV",
+    "Graviranje"
+  ],
+  "Posjetnice": [
+    "Digitalni tisak",
+    "Graviranje"
+  ],
+  "Letci i Flyeri": [
+    "Digitalni tisak"
+  ],
+  "Naljepnice i Etikete": [
+    "Digitalni tisak",
+    "UV",
+    "Tisak velikih formata"
+  ],
+  "Pozivnice": [
+    "Digitalni tisak",
+    "UV"
+  ],
+  "Kalendari i Priznanja": [
+    "Digitalni tisak"
+  ],
+  "Plakati": [
+    "Digitalni tisak",
+    "Tisak velikih formata"
+  ],
+  "Roll-up banneri i City light plakati": [
+    "Tisak velikih formata"
+  ],
+  "Cerade i Banneri": [
+    "Tisak velikih formata"
+  ],
+  "Reklamne table": [
+    "Tisak velikih formata",
+    "UV"
+  ],
+  "Vozila i Izlozi": [
+    "Reklamna grafika",
+    "Tisak velikih formata"
+  ],
+  "Zidne grafike i One way vision folije": [
+    "Tisak velikih formata"
+  ],
+  "Čaše i Šalice": [
+    "Graviranje"
+  ],
+  "Drvene pločice i Drveni proizvodi": [
+    "Graviranje",
+    "UV"
+  ],
+  "Trofeji i Plexiglas proizvodi": [
+    "Graviranje",
+    "UV"
+  ],
+  "Rokovnici i Notezi": [
+    "UV",
+    "Sitotisak"
+  ]
 }
