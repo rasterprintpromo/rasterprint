@@ -20,10 +20,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Prilikom narudžbe potrebno je dostaviti grafiku, logo ili dizajn u što kvalitetnijem formatu, po mogućnosti vektorskom. Potrebno je navesti količinu, veličine proizvoda, pozicije tiska i broj boja u dizajnu. Korisno je naglasiti posebne zahtjeve poput metalik, fluorescentnih ili drugih specijalnih efekata. Nakon potvrde svih detalja priprema se ponuda i vizual."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Standardni rok izrade sitotiska najčešće je između 5 i 10 radnih dana od potvrde narudžbe. Rok ovisi o količini proizvoda, složenosti grafike i trenutnom opterećenju proizvodnje. Veće serije mogu zahtijevati dodatno vrijeme za pripremu i realizaciju. U pojedinim slučajevima moguće je dogovoriti i hitnu izradu."
       }
     ]
   },
@@ -48,10 +44,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Prilikom narudžbe potrebno je poslati grafičku pripremu ili logo u što kvalitetnijem formatu. Važno je navesti količine, veličine proizvoda, pozicije tiska te željene rokove isporuke. Ako nemate pripremljenu grafiku, možemo pomoći oko prilagodbe dizajna."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Standardni rok izrade najčešće je između 3 i 7 radnih dana nakon potvrde narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. U hitnim slučajevima moguće je dogovoriti ubrzanu proizvodnju."
       }
     ]
   },
@@ -76,10 +68,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Potrebno je dostaviti grafiku u visokoj rezoluciji te navesti količinu i veličine proizvoda. Također je važno definirati mjesto otiska i željeni rok izrade. Ukoliko niste sigurni oko pripreme datoteke, naš tim može provjeriti ispravnost grafike prije tiska."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Vrijeme izrade najčešće iznosi od 2 do 7 radnih dana nakon potvrde narudžbe. Rok ovisi o količini proizvoda i opterećenosti proizvodnje. Za manje količine izrada je često moguća i u kraćem roku."
       }
     ]
   },
@@ -104,10 +92,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Potrebno je dostaviti dizajn, navesti dimenzije ispisa i vrstu proizvoda na kojem se tisak izvodi. Važno je precizno definirati količine i eventualne posebne zahtjeve. Na temelju tih informacija izrađuje se ponuda i prijedlog izvedbe."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Prosječno vrijeme izrade kreće se od 3 do 7 radnih dana. Za veće projekte ili specifične materijale rok može biti nešto duži. Točan termin potvrđuje se nakon pregleda narudžbe."
       }
     ]
   },
@@ -132,10 +116,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Potrebno je dostaviti tekst, logo ili grafiku za graviranje te navesti dimenzije i količinu proizvoda. Preporučuje se slanje vektorskih datoteka radi najbolje kvalitete. Također je važno navesti željeno mjesto gravure na proizvodu."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Rok izrade najčešće iznosi od 2 do 5 radnih dana za standardne narudžbe. Veće količine ili složeniji projekti mogu zahtijevati dodatno vrijeme. Točan rok definira se nakon potvrde narudžbe."
       }
     ]
   },
@@ -160,10 +140,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Potrebno je dostaviti grafiku u odgovarajućoj rezoluciji te navesti točne dimenzije proizvoda. Važno je napomenuti gdje će se proizvod koristiti i postoje li posebni zahtjevi za završnu obradu. Na temelju tih podataka priprema se ponuda."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Izrada najčešće traje između 3 i 10 radnih dana, ovisno o količini i dimenzijama. Veći projekti mogu zahtijevati dodatno vrijeme za doradu i montažu. Rok se potvrđuje nakon pregleda svih detalja narudžbe."
       }
     ]
   },
@@ -188,10 +164,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Prilikom narudžbe potrebno je opisati svrhu projekta, ciljanu publiku i željeni stil dizajna. Korisno je dostaviti postojeće materijale, logotipe ili primjere koji vam se sviđaju. Što više informacija pružite, to će rezultat bolje odgovarati vašim očekivanjima."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Vrijeme izrade ovisi o složenosti projekta i broju potrebnih korekcija. Jednostavniji projekti mogu biti gotovi za nekoliko dana, dok složeniji zahtijevaju više vremena. Točan rok dogovara se unaprijed."
       }
     ]
   },
@@ -216,10 +188,6 @@
       {
         "question": "Kako naručiti (što sve napomenuti)?",
         "answer": "Potrebno je dostaviti pripremljenu datoteku za tisak ili zatražiti pomoć oko pripreme. Važno je navesti format, količinu, vrstu papira i željene dorade. Nakon pregleda materijala potvrđuju se cijena i rok izrade."
-      },
-      {
-        "question": "Koliko traje izrada?",
-        "answer": "Digitalni tisak poznat je po brzini izrade te je većina narudžbi gotova unutar 1 do 5 radnih dana. Veće količine ili složenije dorade mogu produžiti rok. Točan termin isporuke definira se prilikom potvrde narudžbe."
       }
     ]
   }
