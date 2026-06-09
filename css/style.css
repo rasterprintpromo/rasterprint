@@ -485,20 +485,40 @@ iframe {
 }
 
 .faq-item {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+
+    border: 1px solid rgba(255, 255, 255, .15);
+    border-radius: 12px;
+
+    background:
+        rgba(255, 255, 255, .03);
+
+    overflow: hidden;
+
+    transition:
+        border-color .2s ease,
+        background .2s ease;
+}
+
+.faq-item:hover {
+    border-color:
+        rgba(236, 0, 140, .4);
 }
 
 .faq-question {
+    padding: 16px 20px;
+
     font-weight: 700;
-
-
-    margin-bottom: 10px;
 
     display: flex;
     align-items: center;
-
     gap: 12px;
 
+    cursor: pointer;
+    user-select: none;
+
+    position: relative;
+    padding-right: 24px;
 
 }
 
@@ -512,14 +532,43 @@ iframe {
 
     background: #ec008c;
 
+    flex-shrink: 0;
 }
 
+.faq-question::after {
+    padding: 16px 20px;
+    content: "\f104";
+
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+
+    position: absolute;
+    right: 0;
+    top: 50%;
+
+    transform: translateY(-50%);
+    transition: transform .25s ease;
+}
+
+.faq-item.expanded .faq-question::after {
+    transform:
+        translateY(-50%)
+        rotate(-90deg);
+}
 .faq-answer {
-    color:
-        rgba(255, 255, 255, .75);
+    display: none;
+    padding: 16px 16px;
 
+    color: rgba(255, 255, 255, .75);
     line-height: 1.7;
+}
 
+.faq-item.expanded .faq-answer {
+    display: block;
+}
+
+.email-section{
+    color: var(--b)
 }
 
 /* RESPONSIVE */
@@ -619,6 +668,30 @@ iframe {
     font-weight: 800;
 
     margin-bottom: 20px;
+}
+
+.product-card.collapsed .product-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.product-card.expandable {
+    cursor: pointer;
+}
+
+.product-card.expandable::after {
+    content: "▼";
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 6px;
+    transition: transform .2s ease;
+}
+
+.product-card.expanded::after {
+    transform: rotate(180deg);
 }
 
 .product-services {
