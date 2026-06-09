@@ -1,93 +1,63 @@
 {
-  "Majice i Polo majice": [
+  "Majice<br>Polo majice<br>Platnene vrećice<br>Dukse": [
     "Sitotisak",
     "DTF",
     "DTG"
   ],
-  "Dukse i Platnene vrećice": [
-    "Sitotisak",
-    "DTF",
-    "DTG"
-  ],
-  "Jakne i Prsluci": [
+  "Jakne<br>Prsluci<br>Sportski dresovi<br>Trenirke<br>Radna odijela<br>Reflektirajući prsluci": [
     "Sitotisak",
     "DTF"
   ],
-  "Šilterice i Ruksaci": [
+  "Šilterice<br>Ruksaci": [
     "DTF"
   ],
-  "Sportski dresovi i Trenirke": [
+  "Rokovnici<br>Notezi": [
     "Sitotisak",
-    "DTF"
-  ],
-  "Radna odijela i Reflektirajući prsluci": [
-    "Sitotisak",
-    "DTF"
-  ],
-  "Metalne kemijske olovke i Termo boce": [
-    "UV",
-    "Graviranje"
-  ],
-  "Upaljači i Plastične olovke": [
     "UV"
   ],
-  "Privjesci i USB stickovi": [
+  "Kemijske olovke<br>Termo boce<br>Privjesci<br>USB stickovi<br>Drvene pločice<br>Drveni proizvodi<br>Trofeji<br>Plexiglas proizvodi": [
     "UV",
     "Graviranje"
   ],
-  "Posjetnice": [
-    "Digitalni tisak",
+  "Upaljači<br>Plastične olovke": [
+    "UV"
+  ],
+  "Čaše<br>Šalice": [
     "Graviranje"
   ],
-  "Letci i Flyeri": [
-    "Digitalni tisak"
+  "Reklamne table": [
+    "UV",
+    "Tisak velikih formata"
   ],
-  "Naljepnice i Etikete": [
+  "Naljepnice<br>Etikete": [
     "Digitalni tisak",
     "UV",
+    "Tisak velikih formata"
+  ],
+  "Roll-up banneri<br>City light plakati<br>Cerade<br>Banneri<br>Zidne grafike<br>One way vision folije": [
+    "Tisak velikih formata"
+  ],
+  "Vozila<br>Izlozi": [
+    "Reklamna grafika",
+    "Tisak velikih formata"
+  ],
+  "Letci<br>Flyeri": [
+    "Digitalni tisak",
+    "Reklamna grafika"
+  ],
+  "Plakati": [
+    "Digitalni tisak",
     "Tisak velikih formata"
   ],
   "Pozivnice": [
     "Digitalni tisak",
     "UV"
   ],
-  "Kalendari i Priznanja": [
+  "Kalendari<br>Priznanja": [
     "Digitalni tisak"
   ],
-  "Plakati": [
+  "Posjetnice": [
     "Digitalni tisak",
-    "Tisak velikih formata"
-  ],
-  "Roll-up banneri i City light plakati": [
-    "Tisak velikih formata"
-  ],
-  "Cerade i Banneri": [
-    "Tisak velikih formata"
-  ],
-  "Reklamne table": [
-    "Tisak velikih formata",
-    "UV"
-  ],
-  "Vozila i Izlozi": [
-    "Reklamna grafika",
-    "Tisak velikih formata"
-  ],
-  "Zidne grafike i One way vision folije": [
-    "Tisak velikih formata"
-  ],
-  "Čaše i Šalice": [
     "Graviranje"
-  ],
-  "Drvene pločice i Drveni proizvodi": [
-    "Graviranje",
-    "UV"
-  ],
-  "Trofeji i Plexiglas proizvodi": [
-    "Graviranje",
-    "UV"
-  ],
-  "Rokovnici i Notezi": [
-    "UV",
-    "Sitotisak"
   ]
 }
